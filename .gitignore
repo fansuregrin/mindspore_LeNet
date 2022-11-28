@@ -1,0 +1,5 @@
+rank_0/*
+**/__pycache__/
+.vscode/
+checkpoints/*/
+MNIST_Data/
